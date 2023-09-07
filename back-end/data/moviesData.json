@@ -1,0 +1,509 @@
+{
+    "movies": [
+        {
+            "id":"1",
+            "name":"The Truman Show",
+            "director": "Peter Weir",
+            "year":"1998",
+            "shortDescription":"An insurance salesman discovers his whole life is actually a reality TV show.",
+            "longDescription":"He doesn't know it, but everything in Truman Burbank's (Jim Carrey) life is part of a massive TV set. Executive producer Christof (Ed Harris) orchestrates 'The Truman Show,' a live broadcast of Truman's every move captured by hidden cameras. Cristof tries to control Truman's mind, even removing his true love, Sylvia (Natascha McElhone), from the show and replacing her with Meryl (Laura Linney). As Truman gradually discovers the truth, however, he must decide whether to act on it.",
+            "rating":"PG",
+            "trailer":"https://youtu.be/dlnmQbPGuls?si=nCSXGZdEGqBCio3w",
+            "favorite":"false",
+            "image":"https://flxt.tmsimg.com/assets/p20974_p_v10_aq.jpg",
+            "genres": [
+                "comedy",
+                "science fiction",
+                "drama",
+                "fantasy"
+            ]
+        },
+        {
+            "id":"2",
+            "name":"The Little Mermaid",
+            "director": "John Musker and Ron Clements",
+            "year":"1989",
+            "shortDescription":"A mermaid princess makes a Faustian bargain in an attempt to become human and win a prince's love.",
+            "longDescription":"In Disney's beguiling animated romp, rebellious 16-year-old mermaid Ariel (Jodi Benson) is fascinated with life on land. On one of her visits to the surface, which are forbidden by her controlling father, King Triton, she falls for a human prince. Determined to be with her new love, Ariel makes a dangerous deal with the sea witch Ursula (Pat Carroll) to become human for three days. But when plans go awry for the star-crossed lovers, the king must make the ultimate sacrifice for his daughter.",
+            "rating":"G",
+            "trailer":"https://youtu.be/nPE0f-MB_bQ?si=BTC7g2cL8SkfGL8J",
+            "favorite":"false",
+            "image":"https://m.media-amazon.com/images/M/MV5BOWUyNDA0ZmItMzg2My00YjJhLTk1N2QtYTAxYTc0NzMzNDI0XkEyXkFqcGdeQXVyMTI5NzUyMTIz._V1_.jpg",
+            "genres": [
+                "musical",
+                "family",
+                "fantasy",
+                "animation",
+                "romance",
+                "adventure"
+            ]
+        },
+        {
+            "id":"3",
+            "name":"The Fifth Element",
+            "director": "Luc Besson",
+            "year":"1997",
+            "shortDescription":"In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr. Zorg at bay.",
+            "longDescription":"In the 23rd century, a New York City cabbie, Korben Dallas (Bruce Willis), finds the fate of the world in his hands when Leeloo (Milla Jovovich) falls into his cab. As the embodiment of the fifth element, Leeloo needs to combine with the other four to keep the approaching Great Evil from destroying the world. Together with Father Vito Cornelius (Ian Holm) and zany broadcaster Ruby Rhod (Chris Tucker), Dallas must race against time and the wicked industrialist Zorg (Gary Oldman) to save humanity.",
+            "rating":"PG-13",
+            "trailer":"https://youtu.be/Gg9nzOFVwtQ?si=smB84l57HvVmL9xm",
+            "favorite":"false",
+            "image":"https://flxt.tmsimg.com/assets/p19352_v_v13_ak.jpg",
+            "genres": [
+                "action",
+                "adventure",
+                "science fiction"
+            ]
+        },
+        {
+            "id":"4",
+            "name":"Clue",
+            "director": "Jonathan Lynn",
+            "year":"1985",
+            "shortDescription":"Six guests are anonymously invited to a strange mansion for dinner, but after their host is killed, they must cooperate with the staff to identify the murderer as the bodies pile up.",
+            "longDescription":"Six blackmail victims are invited to an isolated mansion by a man who knows a dark secret from each of their pasts. On arrival, each is given a pseudonym drawn from Cluedo before being introduced to the blackmailer. Each is handed a weapon, at which point the lights are switched off and the blackmailer is killed. Can the guests uncover the murderer before they all become victims?",
+            "rating":"PG",
+            "trailer":"https://youtu.be/KEXdWfsKZ1k?si=B-FvwqSR5LejlvWu",
+            "favorite":"false",
+            "image":"https://m.media-amazon.com/images/I/913DShsadYL._AC_UF894,1000_QL80_.jpg",
+            "genres": [
+                "mystery",
+                "crime",
+                "comedy",
+                "drama",
+                "thriller"
+            ]
+        },
+        {
+            "id":"5",
+            "name":"The Rocky Horror Picture Show",
+            "director": "Jim Sharman",
+            "year":"1975",
+            "shortDescription":"A newly-engaged couple have a breakdown in an isolated area and must seek shelter at the bizarre residence of Dr. Frank-n-Furter.",
+            "longDescription":"In this cult classic, sweethearts Brad (Barry Bostwick) and Janet (Susan Sarandon), stuck with a flat tire during a storm, discover the eerie mansion of Dr. Frank-N-Furter (Tim Curry), a transvestite scientist. As their innocence is lost, Brad and Janet meet a houseful of wild characters, including a rocking biker (Meat Loaf) and a creepy butler (Richard O'Brien). Through elaborate dances and rock songs, Frank-N-Furter unveils his latest creation: a muscular man named 'Rocky.'",
+            "rating":"R",
+            "trailer":"https://youtu.be/4plqh6obZW4?si=LDqhje1twsMcohXQ",
+            "favorite":"false",
+            "image":"https://m.media-amazon.com/images/M/MV5BOGIzYjM3YzMtMjk5ZS00NDY2LTllMjEtNjYwZjhmMDNhMDBkXkEyXkFqcGdeQXVyODUzMjQxMTA@._V1_.jpg",
+            "genres": [
+                "musical",
+                "horror",
+                "comedy"
+            ]
+        },
+        {
+            "id":"6",
+            "name":"Barbie",
+            "director": "Greta Gerwig",
+            "year":"2023",
+            "shortDescription":"Barbie suffers a crisis that leads her to question her world and her existence.",
+            "longDescription":"Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+            "rating":"PG-13",
+            "trailer":"https://youtu.be/pBk4NYhWNMM?si=rZ80q1PVd4fT_Q_Y",
+            "favorite":"false",
+            "image":"https://upload.wikimedia.org/wikipedia/en/0/0b/Barbie_2023_poster.jpg",
+            "genres": [
+                "adventure",
+                "comedy",
+                "fantasy"
+            ]
+        },
+        {
+            "id":"7",
+            "name":"Scream",
+            "director": "Wes Craven",
+            "year":"1996",
+            "shortDescription":"A year after the murder of her mother, a teenage girl is terrorized by a masked killer who targets her and her friends by using scary movies as part of a deadly game.",
+            "longDescription":"Wes Craven re-invented and revitalised the slasher-horror genre with this modern horror classic, which manages to be funny, clever and scary, as a fright-masked knife maniac stalks high-school students in middle-class suburbia. Craven is happy to provide both tension and self-parody as the body count mounts - but the victims aren't always the ones you'd expect.",
+            "rating":"R",
+            "trailer":"https://youtu.be/i3J6ACKQ7K0?si=pannw2G07p4XVlfS",
+            "favorite":"false",
+            "image":"https://m.media-amazon.com/images/I/7114ViRptyL.jpg",
+            "genres": [
+                "horror",
+                "mystery"
+            ]
+        },
+        {
+            "id":"8",
+            "name":"Scream 2",
+            "director": "Wes Craven",
+            "year":"1997",
+            "shortDescription":"Two years after the first series of murders, as Sidney acclimates to college life, someone donning the Ghostface costume begins a new string of killings.",
+            "longDescription":"Sydney (Neve Campbell) and tabloid reporter Gale Weathers (Courteney Cox) survived the events of the first 'Scream,' but their nightmare isn't over. When two college students are murdered at a sneak preview of 'Stab,' a movie based on the events from the first film, it's clear a copycat killer is on the loose. Sydney and Gail, as well as fellow survivors Deputy Dewey (David Arquette) and Randy (Jamie Kennedy) have to find out who is behind this new murder spree, before they all end up dead.",
+            "rating":"R",
+            "trailer":"https://youtu.be/QXjofSo5Je0?si=aWkXOdfadhznM80v",
+            "favorite":"false",
+            "image":"https://m.media-amazon.com/images/I/41gEaB--0tL._AC_UF894,1000_QL80_.jpg",
+            "genres": [
+                "horror",
+                "mystery"
+            ]
+        },
+        {
+            "id":"9",
+            "name":"Scream 3",
+            "director": "Wes Craven",
+            "year":"2000",
+            "shortDescription":"While Sidney and her friends visit the Hollywood set of Stab 3, the third film based on the Woodsboro murders, another Ghostface killer rises to terrorize them.",
+            "longDescription":"The last instalment in the `Scream' trilogy is set in Hollywood, where `Stab 3' is being shot, with Gale Weathers and Dwight Riley on set as advisors to Jennifer Jolie. Unfortunately, a killer decides to off the cast in the order of the screenplay and only `Sid' Prescott, now in hiding until the killer tracks her down, can solve the riddle.",
+            "rating":"R",
+            "trailer":"https://youtu.be/53l0f5LwfdQ?si=qB_Mk_n_rLGMx-hB",
+            "favorite":"false",
+            "image":"https://m.media-amazon.com/images/M/MV5BMDljNmI1YzctNjJlZC00NzZlLWFlZTgtMDE4MjJiMDk0ZGY4XkEyXkFqcGdeQXVyMjg3MDQ0Mjk@._V1_FMjpg_UX1000_.jpg",
+            "genres": [
+                "horror",
+                "mystery"
+            ]
+        },
+        {
+            "id":"10",
+            "name":"Scream 4",
+            "director": "Wes Craven",
+            "year":"2011",
+            "shortDescription":"Ten years have passed, and Sidney Prescott, who has put herself back together thanks in part to her writing, is visited by the Ghostface Killer.",
+            "longDescription":"It has been many years since the Ghostface Killer cut a deadly path through the town of Woodsboro. In order to get over the trauma of those horrific events, Sidney Prescott (Neve Campbell) has written a self-help book. She returns to Woodsboro for her book tour, and reconnects with old friends Gale Weathers (Courteney Cox) and Sheriff Dewey (David Arquette). However, Sidney's arrival also sparks the return of Ghostface, putting Sidney and everyone she loves in danger.",
+            "rating":"R",
+            "trailer":"https://youtu.be/JKRtyVLWV-E?si=-tyKLHMI6p2QThMn",
+            "favorite":"false",
+            "image":"https://static.wikia.nocookie.net/horrormovies/images/c/cf/Scre4m.jpg/revision/latest?cb=20131006200519",
+            "genres": [
+                "horror",
+                "thriller",
+                "mystery"
+            ]
+        },
+        {
+            "id":"11",
+            "name":"Scream",
+            "director":"Matt Bettinelli-Olpin and Tyler Gillett",
+            "year":"2022",
+            "shortDescription":"25 years after a streak of brutal murders shocked the quiet town of Woodsboro, Calif., a new killer dons the Ghostface mask and begins targeting a group of teenagers to resurrect secrets from the town's deadly past.",
+            "longDescription":"Like the original movie 25 years ago, a teenage girl is at home alone when the phone rings. A man wants to play a game with her. With the threat of killing her best friend, Tara's forced to play along. She barely survives the ghost face masked intruder's stabbing. Her 5 year older sister, Sam(antha), who left home at 18 due to mental problems, Sam's boyfriend and Tara's high school friends visit her at the hospital. Later on in a bar, a guy provokes the friends and is later attacked outside in the parking lot by Ghostface. Sam receives a call from him at the hospital and then he unsuccessfully attacks her. She later reveals family secrets to her sister. Sam contacts one of the original victims, Dewey, for help. He warns two other original victims, Sidney Prescott and Gale Weathers, about Ghostface being back. Who is Ghostface? How many more must die?",
+            "rating":"R",
+            "trailer":"https://youtu.be/-TfkyBWEoWY?si=-UcL748MhE2XCn-m",
+            "favorite":"false",
+            "image":"https://i.ebayimg.com/images/g/qoIAAOSwgYNipWiT/s-l1200.jpg",
+            "genres": [
+                "horror",
+                "thriller"
+            ]
+        },
+        {
+            "id":"12",
+            "name":"Scream VI",
+            "director": "Matt Bettinelli-Olpin and Tyler Gillett",
+            "year":"2023",
+            "shortDescription":"In the next installment, the survivors of the Ghostface killings leave Woodsboro behind and start a fresh chapter in New York City.",
+            "longDescription":"Four survivors of the Ghostface murders leave Woodsboro behind for a fresh start in New York City. However, they soon find themselves in a fight for their lives when a new killer embarks on a bloody rampage.",
+            "rating":"R",
+            "trailer":"https://www.youtube.com/watch?v=h74AXqw4Opc",
+            "favorite":"false",
+            "image":"https://m.media-amazon.com/images/I/71NtLPdYYPL._AC_UF894,1000_QL80_.jpg",
+            "genres": [
+                "horror",
+                "thriller",
+                "mystery"
+            ]
+        },
+        {
+            "id":"13",
+            "name":"The Italian Job",
+            "director": "F. Gary Gray",
+            "year":"2003",
+            "shortDescription":"After being betrayed and left for dead in Italy, Charlie Croker and his team plan an elaborate gold heist against their former ally.",
+            "longDescription":"After a heist in Venice, Steve (Edward Norton) turns on his partners in crime, killing safecracker John Bridger (Donald Sutherland) and keeping all the gold for himself. The rest of the team, including leader Charlie Croker (Mark Wahlberg), driver Handsome Rob (Jason Statham), explosives man Left Ear (Mos Def) and tech geek Lyle (Seth Green), vows revenge. They enlist the help of Bridger's daughter, Stella (Charlize Theron), and plot to recover the gold from Steve's Los Angeles mansion.",
+            "rating":"PG-13",
+            "trailer":"https://youtu.be/6BS9Fjyq5F0?si=UNZ3ojNmRqsIeUiP",
+            "favorite":"false",
+            "image":"https://m.media-amazon.com/images/M/MV5BNDYyNzYxNjYtNmYzMC00MTE0LWIwMmYtNTAyZDBjYTIxMTRhXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+            "genres": [
+                "action",
+                "crime",
+                "thriller"
+            ]
+        },
+        {
+            "id":"14",
+            "name":"Child's Play",
+            "director": "Tom Holland",
+            "year":"1988",
+            "shortDescription":"A dying serial killer transfers his consciousness into a popular kids doll using voodoo. A struggling single mother gifts her six-year-old son the much sought-after doll for his birthday, and the doll slowly begins to show its true colors.",
+            "longDescription":"Gunned down by Detective Mike Norris (Chris Sarandon), dying murderer Charles Lee Ray (Brad Dourif) uses black magic to put his soul inside a doll named Chucky -- which Karen Barclay (Catherine Hicks) then buys for her young son, Andy (Alex Vincent). When Chucky kills Andy's baby sitter, the boy realizes the doll is alive and tries to warn people, but he's institutionalized. Now Karen must convince the detective of the murderous doll's intentions, before Andy becomes Chucky's next victim.",
+            "rating":"R",
+            "trailer":"https://youtu.be/qDbMsaJjp3c?si=YTeXEBi9ElfJsmY4",
+            "favorite":"false",
+            "image":"https://bloximages.chicago2.vip.townnews.com/ttownmedia.com/content/tncms/assets/v3/editorial/4/1d/41d7d1f2-2c85-11ec-8ac2-33ec4ab0e5c0/61677902d1941.image.jpg?resize=333%2C500",
+            "genres": [
+                "horror",
+                "thriller",
+                "mystery"
+            ]
+        },
+        {
+            "id":"15",
+            "name":"Mean Girls",
+            "director": "Mark Waters",
+            "year":"2004",
+            "shortDescription":"Cady Heron is a hit with The Plastics, the A-list girl clique at her new school, until she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George.",
+            "longDescription":"Teenage Cady Heron (Lindsay Lohan) was educated in Africa by her scientist parents. When her family moves to the suburbs of Illinois, Cady finally gets to experience public school and gets a quick primer on the cruel, tacit laws of popularity that divide her fellow students into tightly knit cliques. She unwittingly finds herself in the good graces of an elite group of cool students dubbed 'the Plastics,' but Cady soon realizes how her shallow group of new friends earned this nickname.",
+            "rating":"PG-13",
+            "trailer":"https://youtu.be/oDU84nmSDZY?si=7jzKRfOPjdakDHuk",
+            "favorite":"false",
+            "image":"https://resizing.flixster.com/N0oPotYroFnQqHibIpGGrNXvStE=/206x305/v2/https://resizing.flixster.com/HtZiEfthbBdM_Idd_OB4ZsyfgMk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI2MTVlZjAyLTc1NTAtNGE2Zi1iNzk0LTQxN2ZmMTIyYzRiMC5qcGc=",
+            "genres": [
+                "comedy"
+            ]
+        },
+        {
+            "id":"16",
+            "name":"M3GAN",
+            "director": "Gerard Johnstone",
+            "year":"2022",
+            "shortDescription":"A robotics engineer at a toy company builds a life-like doll that begins to take on a life of its own.",
+            "longDescription":"M3GAN is a marvel of artificial intelligence, a lifelike doll that's programmed to be a child's greatest companion and a parent's greatest ally. Designed by Gemma, a brilliant roboticist, M3GAN can listen, watch and learn as it plays the role of friend and teacher, playmate and protector. When Gemma becomes the unexpected caretaker of her 8-year-old niece, she decides to give the girl an M3GAN prototype, a decision that leads to unimaginable consequences.",
+            "rating":"PG-13",
+            "trailer":"https://youtu.be/OoDHM_A1axc?si=JUaDSQoSCXG2N3uc",
+            "favorite":"false",
+            "image":"https://myhotposters.com/cdn/shop/products/mL6545_1024x1024.jpg?v=1677341044",
+            "genres": [
+                "horror",
+                "thriller"
+            ]
+        },
+        {
+            "id":"17",
+            "name":"Jennifer's Body",
+            "director": "Karyn Kusama",
+            "year":"2009",
+            "shortDescription":"A newly-possessed high-school cheerleader turns into a succubus who specializes in killing her male classmates. Can her best friend put an end to the horror?",
+            "longDescription":"When a demon takes possession of her, high-school hottie Jennifer (Megan Fox) turns a hungry eye on guys who never stood a chance with her before. While evil Jennifer satisfies her appetite for human flesh with the school's male population, her nerdy friend, Needy (Amanda Seyfried), learns what's happening and vows to put an end to the carnage.",
+            "rating":"R",
+            "trailer":"https://youtu.be/C8azftM5puI?si=E-Va83uUHY9SRckW",
+            "favorite":"false",
+            "image":"https://lumiere-a.akamaihd.net/v1/images/image_22a64aa3.jpeg?region=0%2C0%2C1400%2C2100",
+            "genres": [
+                "horror",
+                "comedy"
+            ]
+        },
+        {
+            "id":"18",
+            "name":"Toy Story",
+            "director": "John Lasseter",
+            "year":"1995",
+            "shortDescription":"A cowboy doll is profoundly threatened and jealous when a new spaceman action figure supplants him as top toy in a boy's bedroom.",
+            "longDescription":"Woody (Tom Hanks), a good-hearted cowboy doll who belongs to a young boy named Andy (John Morris), sees his position as Andy's favorite toy jeopardized when his parents buy him a Buzz Lightyear (Tim Allen) action figure. Even worse, the arrogant Buzz thinks he's a real spaceman on a mission to return to his home planet. When Andy's family moves to a new house, Woody and Buzz must escape the clutches of maladjusted neighbor Sid Phillips (Erik von Detten) and reunite with their boy.",
+            "rating":"G",
+            "trailer":"https://youtu.be/v-PjgYDrg70?si=HoyyVIzRG-AycUyM",
+            "favorite":"false",
+            "image":"https://lumiere-a.akamaihd.net/v1/images/p_toystory_19639_424d94a0.jpeg?region=0%2C0%2C540%2C810",
+            "genres": [
+                "family",
+                "adventure"
+            ]
+        },
+        {
+            "id":"19",
+            "name":"The Lion King",
+            "director": "Roger Allers and Rob Minkoff",
+            "year":"1994",
+            "shortDescription":"Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+            "longDescription":"This Disney animated feature follows the adventures of the young lion Simba (Jonathan Taylor Thomas), the heir of his father, Mufasa (James Earl Jones). Simba's wicked uncle, Scar (Jeremy Irons), plots to usurp Mufasa's throne by luring father and son into a stampede of wildebeests. But Simba escapes, and only Mufasa is killed. Simba returns as an adult (Matthew Broderick) to take back his homeland from Scar with the help of his friends Timon (Nathan Lane) and Pumbaa (Ernie Sabella).",
+            "rating":"G",
+            "trailer":"https://youtu.be/eHcZlPpNt0Q?si=NC2JttdF5FssKbQx",
+            "favorite":"false",
+            "image":"https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_.jpg",
+            "genres": [
+                "musical",
+                "family"
+            ]
+        },
+        {
+            "id":"20",
+            "name":"Aladdin",
+            "director": "Ron Clements and John Musker",
+            "year":"1992",
+            "shortDescription":"A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.",
+            "longDescription":"Aladdin is a lovable street urchin who meets Princess Jasmine, the beautiful daughter of the sultan of Agrabah. While visiting her exotic palace, Aladdin stumbles upon a magic oil lamp that unleashes a powerful, wisecracking, larger-than-life genie. As Aladdin and the genie start to become friends, they must soon embark on a dangerous mission to stop the evil sorcerer Jafar from overthrowing young Jasmine's kingdom.",
+            "rating":"G",
+            "trailer":"https://youtu.be/eTjHiQKJUDY?si=I2KdZfFk_ZUemeSO",
+            "favorite":"false",
+            "image":"https://flxt.tmsimg.com/assets/p14361_p_v8_ac.jpg",
+            "genres": [
+                "animation",
+                "adventure",
+                "comedy",
+                "family",
+                "fantasy",
+                "musical",
+                "romance"
+            ]
+        },
+        {
+            "id":"21",
+            "name":"Legally Blonde",
+            "director": "Robert Luketic",
+            "year":"2001",
+            "shortDescription":"Elle Woods, a fashionable sorority queen, is dumped by her boyfriend. She decides to follow him to law school. While she is there, she figures out that there is more to her than just looks.",
+            "longDescription":"Elle Woods (Reese Witherspoon) has it all. She wants nothing more than to be Mrs. Warner Huntington III. But there is one thing stopping him (Matthew Davis) from proposing: She is too blond. Elle rallies all of her resources and gets into Harvard, determined to win him back.",
+            "rating":"PG-13",
+            "trailer":"https://youtu.be/vWOHwI_FgAo?si=EXRgW6iasG3l6u0_",
+            "favorite":"false",
+            "image":"https://m.media-amazon.com/images/M/MV5BNTEyNjUwMTkxMV5BMl5BanBnXkFtZTcwNjk0NDk0NA@@._V1_.jpg",
+            "genres": [
+                "comedy",
+                "romance"
+            ]
+        },
+        {
+            "id":"22",
+            "name":"The Proposal",
+            "director": "Anne Fletcher",
+            "year":"2009",
+            "shortDescription":"A pushy boss forces her young assistant to marry her in order to keep her visa status in the U.S. and avoid deportation to Canada.",
+            "longDescription":"Faced with deportation to her native Canada, high-powered book editor Margaret Tate (Sandra Bullock) says she's engaged to marry Andrew Paxton (Ryan Reynolds), her hapless assistant. Andrew agrees to the charade, but imposes a few conditions of his own, including flying to Alaska to meet his eccentric family. With a suspicious immigration official always lurking nearby, Margaret and Andrew must stick to their wedding plan despite numerous mishaps.",
+            "rating":"PG-13",
+            "trailer":"https://youtu.be/Z2lYA7L7PZY?si=1sD-HUserlRcgyE1",
+            "favorite":"false",
+            "image":"https://m.media-amazon.com/images/M/MV5BOGM5YTNiYzktNmEwZC00ZjE5LWIyNzEtOTUwNDE0NmVkYzE3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+            "genres": [
+                "comedy",
+                "drama",
+                "romance"
+            ]
+        },
+        {
+            "id":"23",
+            "name":"Always Be My Maybe",
+            "director": "Nahnatchka Khan",
+            "year":"2019",
+            "shortDescription":"Everyone assumed that Sasha and Marcus would wind up together, except for Sasha and Marcus. Reconnecting after 15 years, the two start to wonder--maybe?",
+            "longDescription":"Childhood sweethearts have a falling out and don't speak for 15 years, only reconnecting as adults when Sasha runs into Marcus in San Francisco. Although the old sparks are still there, the couple live in different worlds.",
+            "rating":"PG-13",
+            "trailer":"https://youtu.be/iHBcWHY9lN4?si=QzNLaMD_Hm1UL78V",
+            "favorite":"false",
+            "image":"https://m.media-amazon.com/images/M/MV5BMGM2NWFjYTctZjFiYy00YzIxLThhY2QtY2UxZTNmNjdjZTU0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+            "genres": [
+                "comedy",
+                "romance",
+                "netflix"
+            ]
+        },
+        {
+            "id":"24",
+            "name":"Someone Great",
+            "director": "Jennifer Kaytin Robinson",
+            "year":"2019",
+            "shortDescription":"Dumped by her long-term boyfriend, a music journalist recruits her two best friends for one last outrageous adventure in New York City before she moves to San Francisco.",
+            "longDescription":"After a devastating break up on the eve of her cross-country move, Jenny enjoys one last NYC adventure with her two best pals. Someone Great is a romantic comedy about love, loss, growth and the everlasting bond of female friendship.",
+            "rating":"R",
+            "trailer":"https://youtu.be/BBd9gcrj2Wk?si=Bqi9KowhyTIx3RNR",
+            "favorite":"false",
+            "image":"https://m.media-amazon.com/images/M/MV5BMjI5MzQ0NjA5Ml5BMl5BanBnXkFtZTgwNjA1MTg1NzM@._V1_FMjpg_UX1000_.jpg",
+            "genres": [
+                "netflix",
+                "romance",
+                "conedy"
+            ]
+        },
+        {
+            "id":"25",
+            "name":"Do Revenge",
+            "director":"Jennifer Kaytin Robinson",
+            "year":"2022",
+            "shortDescription":"Drea and Eleanor agree to go after one another's bullies.",
+            "longDescription":"Popular Drea wants revenge on her boyfriend for publishing her sex tape, and exchange student Eleanor is haunted by a rumour. The two teenagers team up to take action against their tormentors.",
+            "rating":"R",
+            "trailer":"https://youtu.be/rK-JQU_bShc?si=wJGH0kqO6X9nFIjK",
+            "favorite":"false",
+            "image":"https://m.media-amazon.com/images/M/MV5BYTVjZDE3NWItN2Q4NS00YjYyLTkwYTUtODU3NDUzNTU2NDYxXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_.jpg",
+            "genres": [
+                "netflix",
+                "comedy"
+            ]
+        },
+        {
+            "id":"26",
+            "name":"Bridesmaids",
+            "director": "",
+            "year":"",
+            "shortDescription":"",
+            "longDescription":"",
+            "rating":"",
+            "trailer":"",
+            "favorite":"false",
+            "image":"",
+            "genres": [
+
+            ]
+        },
+        {
+            "id":"27",
+            "name":"The Breakfast Club",
+            "director":"Paul Feig",
+            "year":"2011",
+            "shortDescription":"Competition between the maid of honor and a bridesmaid, over who is the bride's best friend, threatens to upend the life of an out-of-work pastry chef.",
+            "longDescription":"Annie (Kristen Wiig) is a single woman whose own life is a mess, but when she learns that her lifelong best friend, Lillian (Maya Rudolph), is engaged, she has no choice but to serve as the maid of honor. Though lovelorn and almost penniless, Annie, nevertheless, winds her way through the strange and expensive rituals associated with her job as the bride's go-to gal. Determined to make things perfect, she gamely leads Lillian and the other bridesmaids down the wild road to the wedding.",
+            "rating":"R",
+            "trailer":"https://youtu.be/JgacDwgKiZg?si=8BVKsyZwTvhYuthg",
+            "favorite":"false",
+            "image":"https://www.movieposters.com/cdn/shop/products/7d40e55728cbd7f03444363572a830f5_bfcdfb95-e46e-4a48-b3a9-05c482802c01_500x.jpg?v=1573593901",
+            "genres": [
+                "comedy",
+                "romance"
+            ]
+        },
+        {
+            "id":"28",
+            "name":"Don't Look Up",
+            "director":"Adam McKay",
+            "year":"2021",
+            "shortDescription":"Two low-level astronomers must go on a giant media tour to warn mankind of an approaching comet that will destroy planet Earth.",
+            "longDescription":"Don't Look Up is a 2021 American apocalyptic political satire black comedy film written, co-produced, and directed by Adam McKay from a story he co-wrote with David Sirota.[1] It stars an ensemble cast featuring Leonardo DiCaprio, Jennifer Lawrence, Rob Morgan, Jonah Hill, Mark Rylance, Tyler Perry, Timothée Chalamet, Ron Perlman, Ariana Grande, Scott Mescudi, Himesh Patel, Melanie Lynskey, Cate Blanchett, and Meryl Streep. The film tells the story of two astronomers attempting to warn humanity about an approaching comet that will destroy human civilization. The impact event is an allegory for climate change, and the film is a satire of government, political, celebrity, and media indifference to the climate crisis.",
+            "rating":"R",
+            "trailer":"https://youtu.be/RbIxYm3mKzI?si=ck2fLOsjZc2J1M3s",
+            "favorite":"false",
+            "image":"https://m.media-amazon.com/images/M/MV5BZjcwZjY3NjAtNzkxZS00NmFjLTg1OGYtODJmMThhY2UwMTc5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",
+            "genres": [
+                "netflix",
+                "comedy",
+                "drama",
+                "science fiction"
+            ]
+        },
+        {
+            "id":"29",
+            "name":"The Fast and the Furious",
+            "director":"Rob Cohen",
+            "year":"2001",
+            "shortDescription":"Los Angeles police officer Brian O'Conner must decide where his loyalty really lies when he becomes enamored with the street racing world he has been sent undercover to destroy.",
+            "longDescription":"Dominic Toretto (Vin Diesel) enjoys the adrenaline of street car racing and his fans treat him like a rock star. After a blazing encounter with the ruthless Johnny Tran, Dom decides to take Brian (Paul Walker), a newcomer to street racing, under his wing. Dom's sister Mia sees something she likes in Brian, too. Trouble is, neither of them realize he's an undercover cop, and Dominic and his rival Johnny Tran are both the prime suspects in a case involving dirty money and big-rig hijacking.",
+            "rating":"PG-13",
+            "trailer":"https://youtu.be/2TAOizOnNPo?si=_9ha-Op7BuuQI9n0",
+            "favorite":"false",
+            "image":"https://m.media-amazon.com/images/M/MV5BNzlkNzVjMDMtOTdhZC00MGE1LTkxODctMzFmMjkwZmMxZjFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+            "genres": [
+                "crime",
+                "thriller"
+            ]
+        },
+        {
+            "id":"30",
+            "name":"Gerald's Game",
+            "director":"Mike Flanagan",
+            "year":"2017",
+            "shortDescription":"A couple tries to spice up their marriage in a remote lake house. After the husband dies unexpectedly, the wife is left handcuffed to their bed frame and must fight to survive and break free.",
+            "longDescription":"A woman accidentally kills her husband during foreplay. They had driven out to a remote area in an attempt to reignite their flailing relationship. Handcuffed to the bed, she soon becomes delirious.",
+            "rating":"TV-MA",
+            "trailer":"https://youtu.be/twbGU2CqqQU?si=IfMG9wFN0Mgjx1MR",
+            "favorite":"false",
+            "image":"https://m.media-amazon.com/images/M/MV5BMzg0NGE0N2MtYTg1My00NTBkLWI5NjEtZTgyMDA0MTU4MmIyXkEyXkFqcGdeQXVyMTU2NTcyMg@@._V1_FMjpg_UX1000_.jpg",
+            "genres": [
+                "horror",
+                "thriller",
+                "netflix"
+            ]
+        }
+    ]
+}
