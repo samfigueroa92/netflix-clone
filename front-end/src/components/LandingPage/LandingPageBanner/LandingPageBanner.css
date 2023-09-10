@@ -1,0 +1,73 @@
+.LandingPageBanner{
+    height: 90vh;
+    background: url("../../../images/netflix_background.jpeg") no-repeat center center fixed;
+    background-size: cover;
+}
+.LandingPageBanner_content{
+    background: rgba(0,0,0,.4);
+    height: 90vh;
+}
+.LandingPageBanner_content_navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.LandingPageBanner_content_navbar img{
+    width: 200px;
+    
+}
+.LandingPageBanner_content_navbar button{
+    background-color: #E50914;
+    color: white;
+    font-weight: 800;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+   
+}
+.LandingPageBanner_content_text{
+    color: white;
+    margin-top: 200px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.LandingPageBanner_content_text_line {
+    text-align: center;
+    padding: 10px;
+}
+.one{
+    font-size: 50px;
+    font-weight: bold;
+}
+.two{
+    font-size: 30px;
+    font-weight: 600;
+
+}
+.three{
+    font-size: 30px;
+    font-weight: 600;
+
+}
+.LandingPageBanner_content_input{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+.LandingPageBanner_content_input input{
+    font-size: 40px;
+    background: rgba(0,0,0,.4);
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+.LandingPageBanner_content_input button{
+    background-color: #E50914;
+    color: white;
+    font-weight: 800;
+    font-size: 25px;
+    border: none;
+    border-radius: 5px;
+    padding: 20px;
+
+}
