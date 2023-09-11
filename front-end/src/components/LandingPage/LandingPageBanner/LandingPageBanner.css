@@ -1,8 +1,8 @@
-.LandingPageBanner{
+/* .LandingPageBanner{
     height: 90vh;
     background: url("../../../images/netflix_background.jpeg") no-repeat center center fixed;
     background-size: cover;
-}
+} */
 .LandingPageBanner_content{
     background: rgba(0,0,0,.4);
     height: 90vh;

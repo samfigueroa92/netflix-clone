@@ -1,0 +1,35 @@
+.AdvertisementBanner{
+    height: 22vh;
+    background: radial-gradient(circle at 49% 0%, rgb(170, 43, 81) 18%, rgba(0, 63, 212, 1) 48%, rgba(6, 0, 6, .95) 76%);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.AdvertisementBanner img{
+    width: 100px;
+}
+.AdvertisementBanner_text div{
+    margin: 10px;
+   
+}
+.AdvertisementBanner_text_header{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.AdvertisementBanner_text_subheader{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.AdvertisementBanner_text_link{
+    color: cornflowerblue;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.AdvertisementBanner_text_link span{
+    text-decoration: underline;
+}
