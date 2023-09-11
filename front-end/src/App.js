@@ -5,7 +5,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import './App.css';
 
 //components
-import LandingPageBanner from "./components/LandingPage/LandingPageBanner/LandingPageBanner";
+import LandingPage from "./components/LandingPage/LandingPage";
 
 //routes
   //sign in page
@@ -19,7 +19,7 @@ const App = () => {
     <div className="App">
       <Router>
         <Routes>
-          <Route path='/' element={<LandingPageBanner />} />
+          <Route path='/' element={<LandingPage />} />
         </Routes>
       </Router>
     </div>

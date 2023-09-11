@@ -18,7 +18,7 @@ const LandingPageBanner = () => {
             <div className="LandingPageBanner_content_text_line three">Ready to watch? Enter your email to create or restart your membership.</div>
         </div>
         <div className="LandingPageBanner_content_input">
-          <input type='text' placeholder="Email Address"></input>
+          <input type='text' placeholder="Email address"></input>
           <button>Get Started {'>'}</button>
         </div>
       </div>

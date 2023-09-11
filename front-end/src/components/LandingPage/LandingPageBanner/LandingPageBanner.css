@@ -13,7 +13,7 @@
 }
 .LandingPageBanner_content_navbar img{
     width: 200px;
-    
+    margin: 15px;
 }
 .LandingPageBanner_content_navbar button{
     background-color: #E50914;
@@ -22,14 +22,13 @@
     font-size: 20px;
     border: none;
     border-radius: 5px;
-    padding: 10px;
-   
+    margin: 25px;
 }
 .LandingPageBanner_content_text{
     color: white;
-    margin-top: 200px;
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 .LandingPageBanner_content_text_line {
     text-align: center;
@@ -40,12 +39,12 @@
     font-weight: bold;
 }
 .two{
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 600;
 
 }
 .three{
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 600;
 
 }
@@ -56,10 +55,13 @@
     gap: 5px;
 }
 .LandingPageBanner_content_input input{
-    font-size: 40px;
+    font-size: 20px;
+    height: 35px;
     background: rgba(0,0,0,.4);
     border: 2px solid gray;
     border-radius: 5px;
+    padding: 15px;
+    color: white;
 }
 .LandingPageBanner_content_input button{
     background-color: #E50914;
