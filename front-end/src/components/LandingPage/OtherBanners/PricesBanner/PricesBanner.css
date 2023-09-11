@@ -1,35 +1,35 @@
-.AdvertisementBanner{
+.PricesBanner{
     height: 22vh;
-    background: radial-gradient(circle at 49% 0%, rgb(170, 43, 81) 18%, rgba(0, 63, 212, 1) 48%, rgba(6, 0, 6, .95) 76%);
+    background: radial-gradient( 51.39% 511.66% at 47.68% -217.91%, #ff9900 0%, #e50914 17.27%, #0e1b4f 79.44%, #000413 100% );
     color: white;
     display: flex;
     align-items: center;
     justify-content: center;
 
 }
-.AdvertisementBanner img{
+.PricesBanner img{
     width: 100px;
 }
-.AdvertisementBanner_text div{
+.PricesBanner_text div{
     margin: 10px;
    
 }
-.AdvertisementBanner_text_header{
+.PricesBanner_text_header{
     font-size: 25px;
     font-weight: 700;
 }
 
-.AdvertisementBanner_text_subheader{
+.PricesBanner_text_subheader{
     font-size: 20px;
     font-weight: 700;
 }
 
-.AdvertisementBanner_text_link{
+.PricesBanner_text_link{
     color: cornflowerblue;
     font-size: 20px;
     font-weight: 700;
 }
 
-.AdvertisementBanner_text_link span{
+.PricesBanner_text_link span{
     text-decoration: underline;
 }

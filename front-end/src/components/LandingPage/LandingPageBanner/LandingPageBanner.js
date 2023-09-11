@@ -4,7 +4,13 @@ import "./LandingPageBanner.css";
 //images
 import logo from "../../../images/netflix-logo-png-large.png";
 
+//components
+import EmailForm from "../EmailForm/EmailForm";
+
+
 const LandingPageBanner = () => {
+
+
   return (
     <div className="LandingPageBanner">
       <div className="LandingPageBanner_content">
@@ -13,13 +19,13 @@ const LandingPageBanner = () => {
           <button>Sign In</button>
         </div>
         <div className="LandingPageBanner_content_text">
-            <div className="LandingPageBanner_content_text_line one">Unlimited movies, TV shows, and more</div>
-            <div className="LandingPageBanner_content_text_line two"> Watch anywhere. Cancel anytime.</div>
-            <div className="LandingPageBanner_content_text_line three">Ready to watch? Enter your email to create or restart your membership.</div>
-        </div>
-        <div className="LandingPageBanner_content_input">
-          <input type='text' placeholder="Email address"></input>
-          <button>Get Started {'>'}</button>
+          <h1>Unlimited movies, TV shows, and more</h1>
+          <p> Watch anywhere. Cancel anytime.</p>
+          <h3>
+            Ready to watch? Enter your email to create or restart your
+            membership.
+          </h3>
+          <EmailForm />
         </div>
       </div>
     </div>

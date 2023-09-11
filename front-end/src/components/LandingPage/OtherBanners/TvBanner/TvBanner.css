@@ -1,0 +1,27 @@
+.TvBanner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 10px solid rgb(41, 37, 37);
+}
+
+.TvBanner img{
+    width: 600px;
+}
+
+.TvBanner_text h2{
+    margin: 0;
+    font-size: 3rem;
+    font-weight: 800;
+}
+.TvBanner_text p{
+    margin: 1rem 0 0;
+    font-size: 1.3rem;
+    font-weight: 400;
+
+}
+
+.TvBanner_text{
+    width: 40%;
+    margin-left: 30px;
+}
