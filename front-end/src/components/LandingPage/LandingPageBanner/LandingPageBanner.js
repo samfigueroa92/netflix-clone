@@ -2,7 +2,8 @@
 import "./LandingPageBanner.css";
 
 //images
-import logo from "../../../images/netflix-logo-png-large.png";
+// import logo from "../../../images/netflix-logo-png-large.png";
+import logo from "../../../images/flixnet_logo.png"
 
 //components
 import EmailForm from "../EmailForm/EmailForm";
@@ -15,7 +16,7 @@ const LandingPageBanner = () => {
     <div className="LandingPageBanner">
       <div className="LandingPageBanner_content">
         <div className="LandingPageBanner_content_navbar">
-          <img src={logo} alt="netflix-logo" />
+          <img src={logo} alt="flixnet-logo" />
           <button>Sign In</button>
         </div>
         <div className="LandingPageBanner_content_text">
