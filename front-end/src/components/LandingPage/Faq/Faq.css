@@ -1,0 +1,49 @@
+.Faq{
+    background-color: black;
+    color: white;
+}
+
+.Faq_header{
+    font-size: 50px;
+    font-weight: 800;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.Faq_accordian{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Faq_accordian ul{
+    list-style: none;
+}
+
+.Faq_accordian li button{
+    display: flex;
+    justify-content: space-between;
+    border: none;
+    background-color: rgb(68, 66, 66);
+    width: 1000px;
+    height: 100px;
+    color: white;
+    font-size: 25px;
+    padding: 35px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.Faq_accordian li button:hover{
+    background-color: rgb(109, 108, 108);
+}
+
+.Faq_accordian_answer{
+    background-color: rgb(68, 66, 66);
+    width: 950px;
+    font-size: 25px;
+    font-weight: 500;
+    padding: 25px;
+    margin-top: -17px;
+
+}

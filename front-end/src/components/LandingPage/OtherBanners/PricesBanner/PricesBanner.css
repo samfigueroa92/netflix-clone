@@ -1,0 +1,35 @@
+.PricesBanner{
+    height: 22vh;
+    background: radial-gradient( 51.39% 511.66% at 47.68% -217.91%, #ff9900 0%, #e50914 17.27%, #0e1b4f 79.44%, #000413 100% );
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.PricesBanner img{
+    width: 100px;
+}
+.PricesBanner_text div{
+    margin: 10px;
+   
+}
+.PricesBanner_text_header{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.PricesBanner_text_subheader{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.PricesBanner_text_link{
+    color: cornflowerblue;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.PricesBanner_text_link span{
+    text-decoration: underline;
+}
