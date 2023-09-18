@@ -3,6 +3,7 @@
     align-items: center;
     justify-content: center;
     border-bottom: 10px solid rgb(41, 37, 37);
+    width: 100vw;
 }
 
 .DownloadsBanner img{

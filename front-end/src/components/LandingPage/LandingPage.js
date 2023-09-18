@@ -9,9 +9,9 @@ import DownloadsBanner from "./OtherBanners/DownloadsBanner/DownloadsBanner";
 
 //styling
 import "./LandingPage.css";
+import Faq from "./Faq/Faq";
 
 const LandingPage = () => {
-
   return (
     <div className="LandingPage">
       <LandingPageBanner />
@@ -28,6 +28,7 @@ const LandingPage = () => {
       <BannerContainer>
         <DownloadsBanner />
       </BannerContainer>
+      <Faq />
     </div>
   );
 };

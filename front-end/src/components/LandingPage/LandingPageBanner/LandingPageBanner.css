@@ -9,7 +9,6 @@
 .LandingPageBanner_content_navbar img{
     width: 200px;
     margin: 15px;
-    /* transform: scaleX(-1); */
 }
 .LandingPageBanner_content_navbar button{
     background-color: #E50914;
