@@ -17,7 +17,7 @@ const LandingPage = () => {
     <div className="LandingPage">
       <LandingPageBanner />
       <PricesBanner />
-      <BannerContainer>
+      {/* <BannerContainer>
         <TvBanner />
       </BannerContainer>
       <BannerContainer>
@@ -28,7 +28,7 @@ const LandingPage = () => {
       </BannerContainer>
       <BannerContainer>
         <DownloadsBanner />
-      </BannerContainer>
+      </BannerContainer> */}
       <Faq />
       <Footer />
     </div>
