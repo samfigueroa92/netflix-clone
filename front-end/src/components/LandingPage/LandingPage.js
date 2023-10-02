@@ -6,6 +6,7 @@ import BannerContainer from "./BannerContainer/BannerContainer";
 import StreamBanner from "./OtherBanners/StreamBanner/StreamBanner";
 import ProfilesBanner from "./OtherBanners/ProfilesBanner/ProfilesBanner";
 import DownloadsBanner from "./OtherBanners/DownloadsBanner/DownloadsBanner";
+import Footer from "./Footer/Footer";
 
 //styling
 import "./LandingPage.css";
@@ -16,7 +17,7 @@ const LandingPage = () => {
     <div className="LandingPage">
       <LandingPageBanner />
       <PricesBanner />
-      <BannerContainer>
+      {/* <BannerContainer>
         <TvBanner />
       </BannerContainer>
       <BannerContainer>
@@ -27,8 +28,9 @@ const LandingPage = () => {
       </BannerContainer>
       <BannerContainer>
         <DownloadsBanner />
-      </BannerContainer>
+      </BannerContainer> */}
       <Faq />
+      <Footer />
     </div>
   );
 };
