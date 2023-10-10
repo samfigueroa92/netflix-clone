@@ -6,6 +6,7 @@ import './App.css';
 
 //components
 import LandingPage from "./components/LandingPage/LandingPage";
+import SignInPage from "./components/SignIn/SignInPage";
 
 //routes
   //sign in page
@@ -20,6 +21,7 @@ const App = () => {
       <Router>
         <Routes>
           <Route path='/' element={<LandingPage />} />
+          <Route path='/sign-in' element={<SignInPage />} />
         </Routes>
       </Router>
     </div>

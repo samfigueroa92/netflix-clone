@@ -1,0 +1,63 @@
+body{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0,0,0,.5)), url("../../images/netflix_background.jpeg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+.SignInPage button{
+    cursor: pointer;
+}
+
+.SignInPage_logo{
+    margin:25px;
+}
+
+.SignInPage_container{
+    background-color: rgba(0,0,0,.8);
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 500px;
+}
+
+.SignInPage_content-box{
+    display: flex;
+    flex-direction: column;
+    /* align-items: center;
+    justify-content: center; */
+    color: white;
+    padding: 20px;
+}
+
+.SignInPage_content-box input{
+    background-color: rgb(45, 45, 45);
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 15px;
+    margin: 5px;
+}
+
+.SignInPage_content-box button{
+    width:97%;
+    margin: 0 auto;
+    background-color: #E50914;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 15px;
+    margin-top: 40px;
+}
+
+.SignInPage_content-box_text{
+    margin-top: 90px;
+    color: gray;
+}
+.SignInPage_content-box_text a{
+    color: white;
+    text-decoration: none;
+}
+.SignInPage_content-box_text a:hover{
+    text-decoration: underline;
+}

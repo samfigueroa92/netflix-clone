@@ -9,26 +9,48 @@ const Footer = () => {
     <div className="Footer">
       <div className="Footer_content">
         <div className="Footer_content_about">
-          <img src={headshot} alt="Samantha_Figueroa" className="Footer_content_about_headshot" />
+          <img
+            src={headshot}
+            alt="Samantha_Figueroa"
+            className="Footer_content_about_headshot"
+          />
           <div className="Footer_content_about_text">
-          <div className="Footer_content_about_text_header">The Developer 
-          <div className="Footer_content_about_text_header_links">
-          <a href="https://github.com/samfigueroa92"><img src="https://cdn.icon-icons.com/icons2/1907/PNG/512/iconfinder-github-4555889_121361.png" alt="github-icon" /></a>
-          <a href="https://www.linkedin.com/in/samantha-figueroa-fs/"><img src="https://cdn0.iconfinder.com/data/icons/yooicons_set01_socialbookmarks/512/social_linkedin_button_blue.png" alt="linkedin-icon" /></a>
-          <a href = "mailto: samanthafigueroa@pursuit.org"><img src="https://assets.stickpng.com/images/584856bce0bb315b0f7675ad.png" alt="email-icon" /></a>
-          </div>
-          </div>
-          <div className="Footer_content_about_text_paragraph">
-            My name is Samantha Figueroa and I am a junior web developer with experience in HTML, CSS,
-            Javascript, React, Express and PostgreSQL. I recently completed a
-            full-stack web development fellowship with Pursuit and continue to
-            build on the foundational skills I gained by working on projects
-            like this one!
-          </div>
+            <div className="Footer_content_about_text_header">
+              The Developer
+              <div className="Footer_content_about_text_header_links">
+                <a href="https://github.com/samfigueroa92">
+                  <img
+                    src="https://refloow.com/images/GitHub_logo.png"
+                    alt="github-icon"
+                  />
+                </a>
+                <a href="https://www.linkedin.com/in/samantha-figueroa-fs/">
+                  <img
+                    src="https://cdn0.iconfinder.com/data/icons/yooicons_set01_socialbookmarks/512/social_linkedin_button_blue.png"
+                    alt="linkedin-icon"
+                  />
+                </a>
+                <a href="mailto: samanthafigueroa@pursuit.org">
+                  <img
+                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/TK_email_icon.svg/2048px-TK_email_icon.svg.png"
+                    alt="email-icon"
+                  />
+                </a>
+              </div>
+            </div>
+            <div className="Footer_content_about_text_paragraph">
+              My name is Samantha Figueroa and I am a junior web developer with
+              experience in HTML, CSS, Javascript, React, Express and
+              PostgreSQL. I recently completed a full-stack web development
+              fellowship with Pursuit and continue to build on the foundational
+              skills I gained by working on projects like this one!
+            </div>
           </div>
         </div>
         <div className="Footer_content_technologies">
-          <div className="Footer_content_technologies_header">Technologies Used</div>
+          <div className="Footer_content_technologies_header">
+            Technologies Used
+          </div>
           <div className="Footer_content_technologies_icons">
             <img
               src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-9-1175120.png"
@@ -63,11 +85,11 @@ const Footer = () => {
               alt="firebase"
             />
           </div>
-            <div className="Footer_content_technologies_text">
-              This React netflix-clone application was built using a PERN stack: PostgreSQL,
-              Express, React, Node, as well as Javascript, HTML/CSS, and
-              Firebase.
-            </div>
+          <div className="Footer_content_technologies_text">
+            This React netflix-clone application was built using a PERN stack:
+            PostgreSQL, Express, React, Node, as well as Javascript, HTML/CSS,
+            and Firebase.
+          </div>
         </div>
       </div>
     </div>
