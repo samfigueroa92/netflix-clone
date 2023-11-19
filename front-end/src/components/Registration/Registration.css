@@ -1,0 +1,61 @@
+.Registration-container {
+  background-color: rgba(0, 0, 0, 0.8);
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  height: 600px
+}
+
+.Registration-logo{
+  margin:25px;
+}
+
+.Registration-content {
+  color: white;
+  padding: 50px;
+  text-align: center;
+}
+
+.Registration-content form {
+  display: flex;
+  flex-direction: column;
+}
+
+.Registration-content input {
+  background-color: rgb(45, 45, 45);
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  padding: 15px;
+  margin: 5px;
+  color: white;
+}
+
+.Registration-content button {
+  width: 97%;
+  margin: 10px auto;
+  background-color: #e50914;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 15px;
+  cursor: pointer;
+}
+
+.Registration-content a{
+  text-decoration: none;
+}
+
+.Registration-content a:link{
+  color: white;
+}
+
+.Registration-content a:visited{
+  color: white;
+}
+
+.Registration-content a:hover{
+  text-decoration: underline;
+}

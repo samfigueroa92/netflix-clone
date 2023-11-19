@@ -1,16 +1,9 @@
-body{
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0,0,0,.5)), url("../../images/netflix_background.jpeg") no-repeat center center fixed;
-    background-size: cover;
-}
-
 .SignInPage button{
     cursor: pointer;
 }
-
 .SignInPage_logo{
     margin:25px;
 }
-
 .SignInPage_container{
     background-color: rgba(0,0,0,.8);
     margin-left: auto;
@@ -18,14 +11,12 @@ body{
     width: 500px;
     height: 600px;
 }
-
 .SignInPage_content-box{
     display: flex;
     flex-direction: column;
     color: white;
     padding: 50px;
 }
-
 .SignInPage_content-box input{
     background-color: rgb(45, 45, 45);
     border: none;
@@ -33,11 +24,11 @@ body{
     font-size: 18px;
     padding: 15px;
     margin: 5px;
+    color: white;
 }
-
 .SignInPage_content-box button{
     width:97%;
-    margin: 0 auto;
+    margin: 10px auto;
     background-color: #E50914;
     color: white;
     border: none;
@@ -45,9 +36,7 @@ body{
     font-size: 18px;
     font-weight: bold;
     padding: 15px;
-    margin-top: 40px;
 }
-
 .SignInPage_content-box_text{
     margin-top: 90px;
     color: gray;
@@ -57,5 +46,16 @@ body{
     text-decoration: none;
 }
 .SignInPage_content-box_text a:hover{
+    text-decoration: underline;
+}
+.SignInPage_content-box_link{
+    text-align: center;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+.SignInPage_content-box_link:visited{
+    color: white;
+}
+.SignInPage_content-box_link:hover{
     text-decoration: underline;
 }

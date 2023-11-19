@@ -10,7 +10,7 @@ import logo from "../../../images/flixnet_logo.png"
 import EmailForm from "../EmailForm/EmailForm";
 
 
-const LandingPageBanner = () => {
+const LandingPageBanner = ({ setRegistrationEmail, registrationEmail }) => {
 
   const navigate = useNavigate();
 
@@ -29,7 +29,7 @@ const LandingPageBanner = () => {
             Ready to watch? Enter your email to create or restart your
             membership.
           </h3>
-          <EmailForm />
+          <EmailForm setRegistrationEmail={setRegistrationEmail} registrationEmail={registrationEmail} />
         </div>
       </div>
     </div>
