@@ -9,6 +9,7 @@ import './App.css';
 import LandingPage from "./components/LandingPage/LandingPage";
 import SignInPage from "./components/SignIn/SignInPage";
 import Registration from "./components/Registration/Registration";
+import LearnMore from "./components/LearnMore/LearnMore";
 
 //routes
   //sign in page
@@ -27,6 +28,7 @@ const App = () => {
           <Route path='/' element={<LandingPage registrationEmail={registrationEmail} setRegistrationEmail={setRegistrationEmail} />} />
           <Route path='/sign-in' element={<SignInPage />} />
           <Route path='/registration' element={<Registration registrationEmail={registrationEmail} />} />
+          <Route path='/learn-more' element={<LearnMore />} />
         </Routes>
       </Router>
     </div>
