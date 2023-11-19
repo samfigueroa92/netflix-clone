@@ -12,10 +12,10 @@ import Footer from "./Footer/Footer";
 import "./LandingPage.css";
 import Faq from "./Faq/Faq";
 
-const LandingPage = () => {
+const LandingPage = ({ setRegistrationEmail, registrationEmail }) => {
   return (
     <div className="LandingPage">
-      <LandingPageBanner />
+      <LandingPageBanner setRegistrationEmail={setRegistrationEmail} registrationEmail={registrationEmail} />
       <PricesBanner />
       {/* <BannerContainer>
         <TvBanner />
