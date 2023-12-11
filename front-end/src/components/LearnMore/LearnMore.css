@@ -1,0 +1,77 @@
+.LearnMore{
+    background-color: white;
+    width: 100vw;
+    height: 100vh;
+    overflow: scroll;
+}
+
+.LearnMore-container{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.LearnMore-navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    border-bottom: 1px solid gray;
+}
+
+.LearnMore-navbar img{
+    width: 200px;
+}
+
+.LearnMore-navbar button{
+    border: none;
+    background-color: #E50914;
+    color: white;
+    font-weight: 800;
+    font-size: 20px;
+    border-radius: 5px;
+    width: 100px;
+    height: 60px;
+    margin-top: 10px;
+}
+
+.LearnMore-content li{
+    list-style-type: none;
+    font-size: 22px;
+    margin-left: -40px;
+    margin-top: 10px;
+}
+
+.LearnMore-content li span{
+    color: #E50914;
+}
+
+.LearnMore-bubbles{
+    display: flex;
+    margin: 30px 0;
+}
+
+.bubble{
+    background-color: #E50914;
+    color: white;
+    width: 120px;
+    height: 120px;
+    text-align: center;
+    margin: 0 10px;
+    font-size: 18px;
+    font-weight: 600;
+    opacity: .5;
+}
+
+.LearnMore-table{
+    font-size:20px;
+}
+
+.LearnMore-table span{
+    color: #737373;
+    font-weight: 500;
+}
+
+.LearnMore-table td{
+    border-bottom: 1px solid gray;
+    padding: 15px;
+}

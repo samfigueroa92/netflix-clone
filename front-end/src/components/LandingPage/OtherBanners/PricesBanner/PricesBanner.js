@@ -11,7 +11,7 @@ const PricesBanner = () => {
       <div className="PricesBanner_text">
         <div className="PricesBanner_text_header">The Flixnet you love for just $6.99.</div>
         <div className="PricesBanner_text_subheader">Get the Standard with ads plan.</div>
-        <div className="PricesBanner_text_link"><span>Learn More</span> {">"}</div>
+        <div className="PricesBanner_text_link"><a href="/learn-more">Learn More {">"}</a></div>
       </div>
     </div>
   );

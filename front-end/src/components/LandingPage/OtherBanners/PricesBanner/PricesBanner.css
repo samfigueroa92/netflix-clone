@@ -24,13 +24,13 @@
     font-weight: 700;
 }
 
-.PricesBanner_text_link{
+.PricesBanner_text_link a:link{
     color: cornflowerblue;
     font-size: 20px;
     font-weight: 700;
     cursor: pointer;
 }
 
-.PricesBanner_text_link span{
-    text-decoration: underline;
+.PricesBanner_text_link a:visited{
+    color: cornflowerblue;
 }
